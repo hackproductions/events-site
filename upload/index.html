@@ -34,7 +34,6 @@
                 console.log(success);
 
                 const formData = new FormData();
-                formData.append("Content-Type", 'video/mp4');
                 Object.entries(success['fields']).forEach(([k, v]) => {
                     formData.append(k, v);
                 });

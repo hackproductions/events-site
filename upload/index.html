@@ -20,7 +20,10 @@
 
         // This will upload the file after having read it
         const upload = (file) => {
-            fetch('https://5vpsgz45ig.execute-api.eu-west-1.amazonaws.com/prod/upload', { // Your POST endpoint
+            var search = location.search.substring(1);
+            var object = JSON.parse('{"' + search.replace(/&/g, '","').replace(/=/g,'":"') + '"}', function(key, value) { return key===""?value:decodeURIComponent(value) })
+
+            fetch('https://5vpsgz45ig.execute-api.eu-west-1.amazonaws.com/prod/upload?token=' + object['token'], { // Your POST endpoint
             method: 'GET',
             headers: {
               // Content-Type may need to be completely **omitted**

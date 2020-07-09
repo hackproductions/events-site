@@ -1,0 +1,141 @@
+p, h1, h2, h3, h4, h5, h6, button, .page-button, th, td  {
+    font-family: "Montserrat", serif;
+}
+
+h2 {
+    font-size: large;
+}
+
+body {
+    background-color: #292929 !important;
+    background-size: cover;
+    width: auto!important; 
+    overflow-x: hidden!important;
+}
+
+.page {
+    text-align: left;
+}
+
+.page h1 {
+    text-align: left !important;
+    font-weight: 800 !important;
+    color: white;
+}
+
+.events h1 {
+    text-align: center !important;
+    font-weight: 800 !important;
+    color: white;
+}
+
+.event h2 {
+    text-align: center !important;
+    font-weight: 800 !important;
+    color: white;
+}
+
+.event h4 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    color: white;
+}
+
+.event p {
+    color: white;
+    font-weight: 500;
+}
+
+.event a {
+    color: #EBC805;
+    font-weight: 800 !important;
+}
+
+.event a:hover {
+    color: #ffff00;
+}
+
+.page h2 {
+    text-align: left !important;
+    font-weight: 800 !important;
+    color: white;
+}
+
+.page h3 {
+    font-weight: 600 !important;
+    text-align: left !important;
+}
+
+.page h4 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    color: white;
+}
+
+.page p {
+    color: white;
+    font-weight: 500;
+}
+
+.page .obs-img {
+    max-width: 80vw;
+}
+
+.page td {
+    color: white;
+}
+
+.page th {
+    color: white;
+}
+
+.page li {
+    color: white;
+}
+
+.page a {
+    color: #EBC805;
+}
+
+.page a:hover {
+    color: #ffff00;
+}
+
+.page code {
+    color: #17a2b8;
+}
+
+hr {
+    background-color: white;
+    padding: 1px;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+}
+
+@media screen and (max-width: 768px) {
+    
+
+    .page h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .page h2 {
+        font-size: 1.2rem !important;
+    }
+    
+    .page h4 {
+        font-size: 0.8rem !important;
+    }
+
+    .event h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .event h2 {
+        font-size: 1.2rem !important;
+    }
+    
+    .event h4 {
+        font-size: 0.8rem !important;
+    }
+}

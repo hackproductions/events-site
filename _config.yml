@@ -1,0 +1,8 @@
+baseurl: "/"
+url: "events.hack.productions"
+
+title: Events - Hack Productions
+description: Event Resources for Hack Productions
+
+sass:
+  sass_dir: _sass

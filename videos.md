@@ -1,11 +1,11 @@
 ---
-title: Top Tips for Shooting Video/Live Streaming 
+title: Top Tips for Shooting Video 
 layout: page
 hide: true
 permalink: /videos
 ---
 
-# Top Tips for Shooting Video/Live Streaming
+# Top Tips for Shooting Video
 
 When shooting a video for an event or live streaming, things can seem very confusing and you may not know precisely what you need to provide to us to make everything succeed. Do not fear! This document is here to provide all the information you will need to make some amazing content to show the world!
 
@@ -27,7 +27,14 @@ If you know how to set your recording device up to record to .mp4, please do so 
 
 In the highly unlikely event that your footage is in a format we cannot convert, we will get in contact with you to help you configure your setup and make it work!
 
-## If you’re livestreaming, please make sure that your internet upload speed is at least 8 Mbps
+## Recording Slides and Screensharing
 
-When live streaming, the biggest factor that will make or break your quality is your internet upload speed. You can check your upload speed by going to [fast.com](https://fast.com). To make sure everything looks good, we’ll need at least 8 Mbps upload. We will get in contact with you prior to the event to confirm your connection to our servers and make sure you’re good to go!
+We recommend using [OBS](https://obsproject.com/) for recording your screen/slides! It also allows you to add a webcam in too!
 
+Firstly download [OBS](https://obsproject.com/) and install it. Next you can add a window capture and a video capture device. The window capture device will be your slides for example, and the video capture device will be your camera. Also make sure to add an audio input device as your microphone. You'll be able to drag the scenes around on the screen so you can position your camera over the slides and so on. 
+
+When ready, hit `Start Recording` and record your presentation! Afterwards, just hit the same button (now saying `Stop Recording`) and you should get the video inside your Downloads folder. 
+
+More detail on setting OBS up can be found [here!](https://bioceed.uib.no/dropfolder/bioCEED/How%20to%20film%20your%20lectures%20using%20OBS%20studio.pdf)
+
+Any questions, reach out to our team at [hello@hackprods.com](mailto:hello@hackprods.com)

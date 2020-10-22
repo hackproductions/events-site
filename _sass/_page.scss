@@ -1,5 +1,5 @@
 p, h1, h2, h3, h4, h5, h6, button, .page-button, th, td  {
-    font-family: "Montserrat", serif;
+    font-family: "PT Sans Caption", serif;
 }
 
 h2 {
@@ -7,42 +7,37 @@ h2 {
 }
 
 body {
-    background-color: #292929 !important;
+    background-color: white !important;
     background-size: cover;
     width: auto!important; 
     overflow-x: hidden!important;
+    font-family: "PT Sans Caption", serif;
 }
 
 .page {
     text-align: left;
 }
 
-.page h1 {
-    text-align: left !important;
-    font-weight: 800 !important;
-    color: white;
-}
-
 .events h1 {
     text-align: center !important;
     font-weight: 800 !important;
-    color: white;
+    color: black;
 }
 
 .event h2 {
     text-align: center !important;
     font-weight: 800 !important;
-    color: white;
+    color: black;
 }
 
 .event h4 {
     font-weight: 600 !important;
     text-align: center !important;
-    color: white;
+    color: black;
 }
 
 .event p {
-    color: white;
+    color: black;
     font-weight: 500;
 }
 
@@ -55,25 +50,35 @@ body {
     color: #ffff00;
 }
 
+.page h1 {
+    text-align: left !important;
+    font-weight: 800 !important;
+    color: black;
+    margin-bottom: 0.7em;
+}
+
 .page h2 {
     text-align: left !important;
     font-weight: 800 !important;
-    color: white;
+    color: black;
+    margin-bottom: 0.5em;
 }
 
 .page h3 {
     font-weight: 600 !important;
     text-align: left !important;
+    color: black;
+    font-size: 1.3rem;
 }
 
 .page h4 {
     font-weight: 600 !important;
     text-align: center !important;
-    color: white;
+    color: black;
 }
 
 .page p {
-    color: white;
+    color: black;
     font-weight: 500;
 }
 
@@ -82,23 +87,23 @@ body {
 }
 
 .page td {
-    color: white;
+    color: black;
 }
 
 .page th {
-    color: white;
+    color: black;
 }
 
 .page li {
-    color: white;
+    color: black;
 }
 
 .page a {
-    color: #EBC805;
+    color: #0f90fe;
 }
 
 .page a:hover {
-    color: #ffff00;
+    color: #0f90fe;
 }
 
 .page code {
@@ -106,7 +111,7 @@ body {
 }
 
 hr {
-    background-color: white;
+    background-color: black;
     padding: 1px;
     margin-top: 1em !important;
     margin-bottom: 1em !important;

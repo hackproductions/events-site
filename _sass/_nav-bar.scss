@@ -1,10 +1,10 @@
 .nav-bar {
     width: 100%;
     display: inline-block;
-    background-color: #292929;
+    background-color: #0f90fe;
     box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
-    font-family: "Montserrat", serif;
-    margin-bottom: 20px;
+    font-family: "PT Sans Caption", serif;
+    margin-bottom: 3em;
 }
 
 .nav-content {
@@ -21,21 +21,22 @@
     display: inline-flex;
     height: 100%;
     width: 160px;
-    height: 64px;
+    height: 90px;
 }
 
 .nav-content .logo {
-    margin-top: 10px;
+    margin-top: 16px;
     border-radius: 0em;
     box-shadow: 0 0 0 0;
     height: 60px;
+    box-shadow: 0 0px 7px 2px rgba(0,0,0,0.3);
 }
 
 .nav-content #pull {
     font-size: 1.5rem;
     color: white;
     float: right;
-    margin-top: 1.2rem;
+    margin-top: 2rem;
     margin-right: 1.2rem;
 }
 
@@ -82,12 +83,14 @@
     .nav-bar {
         height: auto;
         width: 100%;
-        transition: margin-top 600ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+        transition: margin-top 600ms cubic-bezier(0.1722.04, 0.03, 0.94);
+        margin-bottom: 2em;
     }
 
     .nav-content .logo {
         height: 60px;
         margin: auto;
+        margin-left: 20px;
     }
 
     .nav-content nav {

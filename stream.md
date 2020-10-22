@@ -1,5 +1,5 @@
 ---
-title: Test your stream
+title: Setting up for live slot
 layout: page
 hide: true
 permalink: /stream

@@ -1,5 +1,5 @@
 ---
-title: "HP | hackUMBC 2020"
+title: "hackUMBC 2020"
 layout: page
 hide: false
 permalink: /hackumbc

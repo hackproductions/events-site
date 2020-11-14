@@ -17,7 +17,7 @@ We'll be using Zoom on special request and for large groups.
 
 1. Download Zoom or use it in your browser.
 2. Join the Zoom link 5-10 minutes before your slot.
-3. Hack Productions will count you down to going live. They will count to 3 and stop there to prevent being heard on stream. Continue counting in your head
+3. Hack Productions will count you down to going live. They will count to 3 and stop there to prevent being heard on stream. Continue counting in your head.
 4. When you finish, Hack Productions will take you off stream and communicate with you in the Zoom chat.
 
 Stream delay is about ~1-3 seconds.

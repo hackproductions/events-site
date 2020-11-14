@@ -16,11 +16,14 @@ Instructions for workshop guests can be found [here](./hackumbc/guests).
 We'll be using Zoom on special request and for large groups.
 
 1. Download Zoom or use it in your browser.
-2. Join the Zoom link 15-20 minutes before your slot.
-3. Open up a real time clock, like [time.is](https://time.is), on your computer.
-4. Hack Productions will give you an exact time that you will be live. Wait until the time is displayed on your clock before you start.
-5. As soon as we hit the time mentioned, start your talk/workshop.
-6. When you finish, Hack Productions will take you off stream and communicate with you in the Zoom chat.
+2. Join the Zoom link 5-10 minutes before your slot.
+3. Hack Productions will count you down to going live. They will count to 3 and stop there to prevent being heard on stream. Continue counting in your head
+4. When you finish, Hack Productions will take you off stream and communicate with you in the Zoom chat.
+
+Stream delay is about ~1-3 seconds.
+## Twitch Chat
+
+Open the popup Twitch chat [here](https://www.twitch.tv/popout/hackumbc/chat). This won't have the video to prevent you getting distracted.
 
 ### Notes
 
@@ -28,6 +31,7 @@ We'll be using Zoom on special request and for large groups.
 - Zoom will always say it's streaming. This does not mean you're always on the livestream. Listen for instructions from Hack Productions for when you're live.
 - When you finish, make it clear by thanking the audience an saying goodbye. This helps our producers take you off the stream.
 - When you say goodbye, hold a smile for a few seconds so we can take you off stream. Hack Productions will communicate with you when you're no longer live.
+- If you're 
 
 <br>
 

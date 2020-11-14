@@ -9,7 +9,7 @@ permalink: /hackumbc
 
 We'll be using Zoom for live talks, workshops and ceremonies.
 
-Instructions for workshop guests can be found [here](./guests).
+Instructions for workshop guests can be found [here](./hackumbc/guests).
 
 ## Zoom
 

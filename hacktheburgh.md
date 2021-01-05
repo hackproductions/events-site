@@ -1,11 +1,11 @@
 ---
-title: "Hack the Burgh VIII"
+title: "Hack the Burgh VII"
 layout: page
 hide: false
 permalink: /hacktheburgh
 ---
 
-# Hack the Burgh VIII Instructions for Live Presenters
+# Hack the Burgh VII Instructions for Live Presenters
 
 We'll be using OBS Ninja for putting live presenters on the stream.
 

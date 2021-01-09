@@ -10,6 +10,8 @@ You'll find all the resources you'll need here for your event!
 ## Upcoming Events
 
 - [Hex Cambridge](/hexcambridge)
+- [Royal Hackaway v4](/royalhackaway)
+- [Hack the Bugh VII](/hacktheburgh)
 
 ## Previous Events
 

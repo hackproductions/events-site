@@ -9,7 +9,7 @@ permalink: /hexcambridge
 
 We'll be using Hack Productions Connect for putting live presenters on the stream.
 
-1. Head over to [connect.hack.productions](https://connect.hack.productions/?room=hackcambridgebroadcast&hash=90f0&view) and type in the provided password. You can get this via Hack Productions.
+1. Head over to [connect.hack.productions](https://connect.hack.productions/?room=hackcambridgebroadcast&hash=90f0) and type in the provided password. You can get this via Hack Productions.
 2. Join the link about 10-15 minutes before your workshop
 3. Hack Productions will count you down to going live. They will count you down so you know when you're live
 4. When you finish, Hack Productions will take you off stream. You'll be able to see this on your screen.

@@ -9,8 +9,7 @@ You'll find all the resources you'll need here for your event!
 
 ## Upcoming Events
 
-- [Royal Hackaway v4](/royalhackaway)
-- [AstonHack6](/)
+- [AstonHack6](/astonhack)
 - [Hack the Bugh VII](/hacktheburgh)
 
 ## Previous Events
@@ -19,6 +18,7 @@ You'll find all the resources you'll need here for your event!
 - [hackUMBC 2020](/hackumbc)
 - [HackNotts 2020](/hacknotts)
 - [Hex Cambridge](/hexcambridge)
+- [Royal Hackaway v4](/royalhackaway)
 
 ## Social Logos
 

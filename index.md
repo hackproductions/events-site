@@ -10,6 +10,7 @@ You'll find all the resources you'll need here for your event!
 ## Upcoming Events
 
 - [AstonHack6](/astonhack)
+- [WiCSHacks](/wics)
 - [Hack the Bugh VII](/hacktheburgh)
 
 ## Previous Events

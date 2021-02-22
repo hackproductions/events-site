@@ -1,9 +1,9 @@
-import * as THREE from './lib/three.module.js'
-import { OrbitControls } from './lib/OrbitControls.mjs'
+import * as THREE from 'lib/three.module.js'
+import { OrbitControls } from 'lib/OrbitControls.mjs'
 
-import { EffectComposer } from './lib/postprocessing/EffectComposer.js';
-import { RenderPass } from './lib/postprocessing/RenderPass.js';
-import { UnrealBloomPass } from './lib/postprocessing/UnrealBloomPass.js';
+import { EffectComposer } from 'lib/postprocessing/EffectComposer.js';
+import { RenderPass } from 'lib/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'lib/postprocessing/UnrealBloomPass.js';
 
 
 

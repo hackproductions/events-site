@@ -1,11 +1,11 @@
 ---
-title: "WiCSHacks"
+title: "WiCHacks"
 layout: page
 hide: false
-permalink: /wics
+permalink: /wichacks
 ---
 
-# WiCSHacks: Instructions for Live Presenters
+# WiCHacks: Instructions for Live Presenters
 
 ## Zoom
 

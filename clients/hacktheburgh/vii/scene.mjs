@@ -1,9 +1,9 @@
-import * as THREE from 'lib/three.module.js'
-import { OrbitControls } from 'lib/OrbitControls.mjs'
+import * as THREE from '/clients/hacktheburgh/vii/lib/three.module.js'
+import { OrbitControls } from '/clients/hacktheburgh/vii/lib/OrbitControls.mjs'
 
-import { EffectComposer } from 'lib/postprocessing/EffectComposer.js';
-import { RenderPass } from 'lib/postprocessing/RenderPass.js';
-import { UnrealBloomPass } from 'lib/postprocessing/UnrealBloomPass.js';
+import { EffectComposer } from '/clients/hacktheburgh/vii/lib/postprocessing/EffectComposer.js';
+import { RenderPass } from '/clients/hacktheburgh/vii/lib/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from '/clients/hacktheburgh/vii/lib/postprocessing/UnrealBloomPass.js';
 
 
 

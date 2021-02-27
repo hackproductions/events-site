@@ -24,7 +24,7 @@ Open the popup Twitch chat [here](https://www.twitch.tv/popout/wichacks/chat). T
 
 - Check you can screenshare in Zoom before your slot.
 - Zoom will allow you to mute yourself and turn off your camera if you want to come off the livestream.
-- On your screen, you will be able to see yourself, any other guests as well as the livstream. This is in real time so you will know when you're live.
+- On your screen, you will be able to see yourself, any other guests as well as the livestream. This is in real time so you will know when you're live.
 - If your camera is off, you will not appear on the stream.
 - When you finish, make it clear by thanking the audience an saying goodbye. This helps our producers take you off the stream.
 - When you say goodbye, hold a smile for a few seconds so we can take you off stream. Hack Productions will communicate with you when you're no longer live.

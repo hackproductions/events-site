@@ -18,7 +18,7 @@ We'll be using Zoom to bring people live on stream.
 
 ## Twitch Chat
 
-Open the popup Twitch chat [here](https://www.twitch.tv/popout/hackathonsuk/chat). This won't have the video to prevent you getting distracted.
+Open the popup Twitch chat [here](https://www.twitch.tv/popout/wichacks/chat). This won't have the video to prevent you getting distracted.
 
 ### Notes
 

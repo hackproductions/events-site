@@ -9,7 +9,6 @@ You'll find all the resources you'll need here for your event!
 
 ## Upcoming Events
 
-- [WiCHacks](/wichackss)
 - [Hack the Bugh VII](/hacktheburgh)
 
 ## Previous Events
@@ -20,6 +19,7 @@ You'll find all the resources you'll need here for your event!
 - [Hex Cambridge](/hexcambridge)
 - [Royal Hackaway v4](/royalhackaway)
 - [AstonHack6](/astonhack)
+- [WiCHacks](/wichackss)
 
 ## Social Logos
 
